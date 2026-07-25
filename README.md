@@ -49,14 +49,6 @@ watch the following tutorials before installing gpu drivers
 
 [node download](https://nodejs.org/en/download)
 
-- download LTS version for windows x64
-
-```bash
-just agree and click next next
-```
-
----
-
 ## INSTALL MONGODB(NoSql)
 
 [mongodb download link](https://www.mongodb.com/try/download/community)
