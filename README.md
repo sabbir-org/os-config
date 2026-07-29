@@ -15,22 +15,14 @@ watch the following tutorials before installing gpu drivers
 
 ### Other Apps
 
-- [discord](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86)
-- [brave](https://brave.com/)
-- [nilesoft shell](https://nilesoft.org/)
-- [winrar](https://www.win-rar.com/postdownload.html?&L=0)
-- [slack](https://slack.com/api/desktop.latestRelease?arch=ia32&variant=exe&redirect=true)
 - [afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 - [obs](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-29.0.2-Full-Installer-x64.exe)
 - [steam](https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe)
 - [epic](https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi)
-- [figma](https://www.figma.com/download/desktop/win)
 - [.net sdk lts](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks)
 - [python](https://www.python.org/)
 - [c++](https://code.visualstudio.com/docs/cpp/config-mingw)
 - [java](https://aws.amazon.com/corretto/)
-- [audio relay](https://audiorelay.net/downloads)
-- [rtx voice](https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/)
 - [avro](https://www.omicronlab.com/avro-keyboard-download.html)
 - [power toys](https://learn.microsoft.com/en-us/windows/powertoys/)
 - [razer software](https://www.razer.com/synapse-4)
@@ -43,7 +35,8 @@ watch the following tutorials before installing gpu drivers
 - darkreader
 - tempmail
 - ublock origin
-- esuit fb ad blocker
+- fdm
+- youtube enhance
 
 ### Install NodeJs
 
@@ -189,18 +182,12 @@ git clone --single-branch -b <branchname-url >
 ### vscode configuration
 [vscode download link](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)\
 **list of extension**\
-✅ anysphere dark\
-✅ aura theme\
 ✅ auto rename tag\
-✅ cline\
 ✅ color highlight\
-✅ continue\
 ✅ es7+ react/redux\
 ✅ fluent icons\
-✅ copilot\
 ✅ hide files\
 ✅ live server\
-✅ markdown github style\
 ✅ material icon theme\
 ✅ prettier code formatter\
 ✅ tailwindcss intellisense\
@@ -344,12 +331,8 @@ setting snippets as global across the editor. Open vscode code editor. Press `ct
 <pre>
 {
   "breadcrumbs.enabled": false,
-  // "editor.fontFamily": "mononoki",
-  "editor.fontFamily": "cascadia code",
-
-  // "editor.fontFamily": "monaspace neon",
-  // "editor.fontFamily": "fira code",
-  "editor.fontSize": 16,
+  "editor.fontFamily": "monaspace neon var",
+  "editor.fontSize": 14,
   "editor.fontLigatures": "'calt','cv01', 'cv02', 'cv06','cv13', 'cv14', 'cv18', 'cv27', 'cv31','ss01','ss02', 'ss03','ss04','ss05','ss08'",
   "editor.fontWeight": "400",
   "editor.cursorSmoothCaretAnimation": "off",
